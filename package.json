@@ -1,0 +1,31 @@
+{
+  "name": "synapse_pay",
+  "version": "0.0.1",
+  "description": "SynapsePay API Library. See http://synapsepay.readme.io/v1.0/docs for more details.",
+  "homepage": "https://synapsepay.com/",
+  "author": "Apibits.com <libraries@apibits.com>",
+  "contributors": [
+    "Apibits.com <libraries@apibits.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/synapsepay/synapse_pay-node.git"
+  },
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/SynapsePay.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.6",
+    "lodash": "^3.6.0",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0",
+    "chai-as-promised": "~4.1.1",
+    "mocha": "~2.1.0"
+  }
+}
