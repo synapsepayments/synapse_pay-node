@@ -2,6 +2,7 @@
 
 [![API Library via Apibits.com](http://apibits.com/assets/images/apibits-badge.png)](http://apibits.com)
 
+
 ## Installation
 
 
@@ -11,10 +12,10 @@ npm install synapse_pay
 
 ## Documentation
 
-Documentation is available at [http://synapsepay.readme.io/v1.0/docs/](http://synapsepay.readme.io/v1.0/docs/).
+Documentation is available at [http://api.synapsepay.com/v2.0](http://api.synapsepay.com/v2.0).
 
 
 ## Samples
 
-See the [samples](https://github.com/synapsepayments/synapse_pay-node/tree/master/samples) folder for samples using the library. Samples are available using callbacks and promises.
+See [samples.md](https://github.com/synapsepayments/synapse_pay-node/tree/master/samples) for sample usage in node. Samples are available using callbacks and promises.
 

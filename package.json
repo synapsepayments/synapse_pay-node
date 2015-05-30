@@ -1,7 +1,7 @@
 {
   "name": "synapse_pay",
-  "version": "0.0.1",
-  "description": "SynapsePay API Library. See http://synapsepay.readme.io/v1.0/docs for more details.",
+  "version": "0.0.3",
+  "description": "SynapsePay API Library. See http://api.synapsepay.com/v2.0 for more details.",
   "homepage": "https://synapsepay.com/",
   "author": "Apibits.com <libraries@apibits.com>",
   "contributors": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/synapsepay/synapse_pay-node.git"
+    "url": "git://github.com/synapsepayments/synapse_pay-node.git"
   },
   "engines": {
     "node": ">= v0.10.0"

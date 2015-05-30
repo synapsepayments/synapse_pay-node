@@ -10,7 +10,7 @@ SynapsePay.clientSecret = "dcbf52b16040c94a35f345b7e2c285f936d673c9";
 SynapsePay.User.login("3ac38d63db58466982fe6f871c48f1", "TestTest123$").then(function(client) {
 
   // With a promise
-  client.users.update({
+  client.user.update({
     fullname: "George Washington",
     secret_note: "Some secret info.",
   }).then(function(user) {
@@ -22,7 +22,7 @@ SynapsePay.User.login("3ac38d63db58466982fe6f871c48f1", "TestTest123$").then(fun
   });
 
   // With a callback
-  client.users.update({
+  client.user.update({
     fullname: "George Washington",
     secret_note: "Some secret info.",
   }, function(user, err) {

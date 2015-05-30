@@ -1,1 +1,1 @@
-// See Bank#link
+See bank_mfa_device's Methods.
