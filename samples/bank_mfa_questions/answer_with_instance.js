@@ -1,1 +1,1 @@
-See bank_mfa_questions's Methods.
+See banks#link
